@@ -13,7 +13,3 @@ function togglemode() {
   }
   // se tiver sem light mode, mater a imagem normal
 }
-
-
-// se tiver light mode, adicionar a imagem light
-// se tiver sem light mode, mater a imagem normal
